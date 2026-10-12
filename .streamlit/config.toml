@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#497b62"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#def0e4"
+textColor = "#000000"
+font = "sans serif"
+
+[server]
+runOnSave = true
+# Default Streamlit port
+port = 8501
+
+[browser]
+# Disables the Streamlit telemetry prompt in the terminal
+gatherUsageStats = false
